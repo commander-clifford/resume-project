@@ -1,0 +1,146 @@
+body {
+	font-family: gill sans, verdana, sans serif;
+	background-color: #878787;
+	background-image:url(images/bg.jpg	);
+	background-repeat: x;
+	background-attachment: fixed;
+	font-size: 16px; 
+	line-height: 24px; 
+	background-color: #2D416E; 
+	}
+	
+#container {
+	background-image:url(images/circuit_board.jpg);
+	background-attachment: fixed;
+	border: solid 5px #000066;
+	width: 920px;
+	padding:20px;
+	margin: 0 auto;
+	}	
+	
+	
+h1 {
+	text-align: center; 
+	color: #FFF; 
+	font-size:300%; 
+	margin: 0px 0px 30px 0px; 
+	}	
+	
+h2 {
+	 color: #2d416e; 
+	 margin: 0px;
+	}	
+
+	
+a:link{
+	color: #00F; 
+	text-decoration: none;
+	}
+a:visited{
+	color: #9600FF; 
+	text-decoration: none;
+	}
+a:hover{
+	color: #F00; 
+	text-decoration: underline;
+	}
+a:active{
+	color: #0F0; 
+	text-decoration: overline;
+	}
+	
+	
+address a:link{
+	color: #FFF; 
+	text-decoration: none;
+	}
+address a:visited{
+	color: #AAA; 
+	text-decoration: none;
+	}
+address a:hover{
+	color: #F00; 
+	text-decoration: underline;
+	}
+address a:active{
+	color: #0F0; 
+	text-decoration: underline;
+	}	
+	
+	
+h3 {
+	 color: #2D416E; 
+	 margin: 0;
+	 font-size:110%; 
+	}		
+	
+h4 {
+	 color: #2d416e; 
+	 margin: 0;
+	 font-size:95%; 
+	}
+	
+ul {
+	margin: 5px 0 10px 0;
+	}
+	
+address {
+	font-size: 150%;
+	line-height: 30px; 
+	text-align: center; 
+	color: #FFF; 
+	margin: auto 0;
+	line-height: 30px;
+	}	
+		
+.body {
+	border: solid 1px #006600; 
+	width: 500px; 
+	margin: 10px auto; 
+	background-image:url(images/white_dot.png);
+	padding: 20px;
+	}	
+	
+div.body p.links {
+	text-align: center;
+	margin: 0;
+	}	
+	
+div.body p.list {
+	text-align: left;
+	margin: 10px;
+	}	
+	
+#bottom_links p {
+	text-align: center;
+	}
+	
+#bottom_links img {
+	margin: 10px; 
+	}
+	
+.bottom_links p img {
+	text-align: center;
+	}	
+	
+.side_links {
+	border: solid 1px #006600; 
+	background-image:url(images/white_dot.png);
+	text-align: center;
+	float: left;
+	width: 120px;
+	line-height: 30px;
+	margin: 10px;
+	padding: 5px;
+	}	
+	
+.side_links_right {
+	border: solid 1px #006600; 
+	background-image:url(images/white_dot.png);
+	text-align: center;
+	float: right;
+	width: 130px;
+	line-height: 30px;
+	margin: 10px;
+	padding: 5px;
+	}		
